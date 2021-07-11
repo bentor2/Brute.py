@@ -12,6 +12,6 @@ $ git clone https://github.com/AkinXD/Brute
 
 $ git tarik
 
-$cd Brute
+$ cd brute
 
 $ python run.py
