@@ -1,11 +1,17 @@
-$ pkg update && pkg upgrade
+$ pkg pembaruan && peningkatan pkg
 
-$ pkg install python git
+$ pkg instal python git
 
-$ pip install requests bs4 futures
+$ pip permintaan pemasangan bs4 futures
 
 $ rm -rf Brute
 
 pip install ipaddr
 
-$ git clone https://github.com/Akin$ python run.py
+$ git clone https://github.com/AkinXD/Brute
+
+$ git tarik
+
+$cd Brute
+
+$ python run.py
